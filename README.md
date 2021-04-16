@@ -1,3 +1,3 @@
 # Build for nsq cross platform
 
-Build crossplatform nqs docker images using buildx
+Build crossplatform nsq docker images using buildx
