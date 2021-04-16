@@ -1,0 +1,1 @@
+# Build for nsq cross platform
